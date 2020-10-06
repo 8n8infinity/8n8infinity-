@@ -1,9 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-<version>2.0.0.0</version>
-<url>http://rbsoft.org/downloads/AutoUpdaterTest.zip</url>
+<version>1.0.0.1</version>
+<url>https://raw.githubusercontent.com/8n8infinity/8n8infinity-/master/release/download/v.1.0.0.1/mysetup.exe</url>
 <releasenotes>
-https://github.com/ravibpatel/AutoUpdater.NET/releases
+Release Title/Version
+------------------------------------
+ 
+ New features:
+  1.
+  2.
+  3.
+ 
+ Bug fixes
+  1.
+  2.
+  3.
 </releasenotes>
-<checksum>Update file Checksum</checksum>
+<checksum>E071BEBA13240500B6B87037A19ED62626CC415E486124B7EF4F5FC66AAA0AFF</checksum>
 </item>
