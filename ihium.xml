@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
 <version>1.0.0.1</version>
-<url>https://raw.githubusercontent.com/8n8infinity/8n8infinity-/master/release/download/v.1.0.0.1/mysetup.exe</url>
+<url>https://raw.githubusercontent.com/8n8infinity/8n8infinity-/master/release/download/v.1.0.0.1/setup.exe</url>
 <releasenotes>
 Release Title/Version
 ------------------------------------
@@ -16,5 +16,5 @@ Release Title/Version
   2.
   3.
 </releasenotes>
-<checksum>E071BEBA13240500B6B87037A19ED62626CC415E486124B7EF4F5FC66AAA0AFA</checksum>
+<checksum>E071BEBA13240500B6B87037A19ED62626CC415E486124B7EF4F5FC66AAA0AFF</checksum>
 </item>
